@@ -21,5 +21,17 @@ Clone or download this repository
 Clone this repository:
    ```bash
    git clone https://github.com/Umid-R/BreakoutGame.git
-   cd Breakout-Game
-```
+   ```
+
+## Some shots from the game
+<img width="1180" height="812" alt="image" src="https://github.com/user-attachments/assets/c928cfbc-ab18-47af-9234-b2caf5fa3c87" />
+
+<img width="1195" height="823" alt="image" src="https://github.com/user-attachments/assets/df92fb7f-8cd2-463e-a838-03c98cfd05d4" />
+
+<img width="1192" height="825" alt="image" src="https://github.com/user-attachments/assets/03d0eb89-abab-4901-833a-3eabf0f886e6" />
+
+<img width="1192" height="819" alt="image" src="https://github.com/user-attachments/assets/742d7fc4-3bfc-40d5-86d7-8351a40c9763" />
+
+
+
+
